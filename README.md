@@ -223,4 +223,4 @@ SUMo is available as a full free version with all features and updates included.
 Don't miss the chance to enhance your software management. **Download SUMo now and keep your applications updated effortlessly!**
 
 ---
-**Last updated:** 2026-10-09 06:58:24 UTC
+**Last updated:** 2026-10-09 14:08:49 UTC
